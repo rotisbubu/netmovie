@@ -1,0 +1,73 @@
+[
+    {
+        "id": "NM001",
+        "title": "Home Alone",
+        "image": "homeAlone.jpg",
+        "genre": "Comedy",
+        "rating": "8.3"
+    },
+    {
+        "id": "NM002",
+        "title": "The Princess Diaries",
+        "image": "thePrincessDiaries.jpeg",
+        "genre": "Comedy",
+        "rating": "8.5"
+    },
+    {
+        "id": "NM003",
+        "title": "Two Blue Hearts",
+        "image": "twoBlueHearts.jpg",
+        "genre": "Drama",
+        "rating": "8.0"
+    },
+    {
+        "id": "NM004",
+        "title": "Gran Turismo",
+        "image": "granTurismo.jpg",
+        "genre": "Drama",
+        "rating": "9.0"
+    },
+    {
+        "id": "NM005",
+        "title": "The Meg",
+        "image": "theMeg.jpg",
+        "genre": "Thriller",
+        "rating": "8.7"
+    },
+    {
+        "id": "NM006",
+        "title": "Mai",
+        "image": "mai.jpeg",
+        "genre": "Romance",
+        "rating": "9.0"
+    },
+    {
+        "id": "NM007",
+        "title": "Man in Love",
+        "image": "manInLove.jpg",
+        "genre": "Romance",
+        "rating": "8.3"
+    },
+    {
+        "id": "NM008",
+        "title": "Five Feet Apart",
+        "image": "fiveFeetApart.jpg",
+        "genre": "Romance",
+        "rating": "9.3"
+    },
+    {
+        "id": "NM009",
+        "title": "Oppenheimer",
+        "image": "oppenheimer.jpg",
+        "genre": "Drama",
+        "rating": "8.3"
+    },
+    {
+        "id": "NM010",
+        "title": "Parasite",
+        "image": "parasite.jpg",
+        "genre": "Thriller",
+        "rating": "9.6"
+    }
+
+]
